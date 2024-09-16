@@ -190,7 +190,7 @@
     "metadata": {
         "name": "App Service Web Apps Service Guide",
         "state": "preview",
-        "timestamp": "September 09, 2024",
+        "timestamp": "September 16, 2024",
         "waf": "all"
     },
     "status": [
@@ -217,34 +217,34 @@
     ],
     "waf": [
         {
+            "name": "seguridad"
+        },
+        {
             "name": "Costar"
         },
         {
-            "name": "Operaciones"
-        },
-        {
-            "name": "Operaciones"
+            "name": "rendimiento"
         },
         {
             "name": "Rendimiento"
         },
         {
-            "name": "rendimiento"
+            "name": "Operaciones"
+        },
+        {
+            "name": "Fiabilidad"
+        },
+        {
+            "name": "costar"
+        },
+        {
+            "name": "Operaciones"
         },
         {
             "name": "Seguridad"
         },
         {
             "name": "fiabilidad"
-        },
-        {
-            "name": "costar"
-        },
-        {
-            "name": "Fiabilidad"
-        },
-        {
-            "name": "seguridad"
         }
     ],
     "yesno": [

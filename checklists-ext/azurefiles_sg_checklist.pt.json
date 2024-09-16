@@ -238,7 +238,7 @@
     "metadata": {
         "name": "Azure Files Service Guide",
         "state": "preview",
-        "timestamp": "September 09, 2024",
+        "timestamp": "September 16, 2024",
         "waf": "all"
     },
     "status": [
@@ -265,34 +265,34 @@
     ],
     "waf": [
         {
+            "name": "segurança"
+        },
+        {
             "name": "Custar"
         },
         {
-            "name": "Operações"
-        },
-        {
-            "name": "Operações"
+            "name": "desempenho"
         },
         {
             "name": "Desempenho"
         },
         {
-            "name": "desempenho"
+            "name": "Operações"
+        },
+        {
+            "name": "Fiabilidade"
+        },
+        {
+            "name": "custar"
+        },
+        {
+            "name": "Operações"
         },
         {
             "name": "Segurança"
         },
         {
             "name": "fiabilidade"
-        },
-        {
-            "name": "custar"
-        },
-        {
-            "name": "Fiabilidade"
-        },
-        {
-            "name": "segurança"
         }
     ],
     "yesno": [

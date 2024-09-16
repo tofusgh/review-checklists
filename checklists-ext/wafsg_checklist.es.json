@@ -1547,7 +1547,7 @@
             "waf": "Fiabilidad"
         },
         {
-            "description": "Los circuitos dedicados de ExpressRoute garantizan una disponibilidad del \"99,95 %\" cuando se configura una conectividad activo-activo entre el entorno local y Azure. Este modo proporciona una mayor disponibilidad de la conexión de Expressroute. También se recomienda configurar BFD para una conmutación por error más rápida si hay un error de vínculo en una conexión.",
+            "description": "Este modo proporciona una mayor disponibilidad de las conexiones de Expressroute. También se recomienda configurar BFD para una conmutación por error más rápida si hay un error de vínculo en una conexión.",
             "guid": "068037d8-673f-4e86-bc9d-bf83fbe61d12",
             "service": "Azure Expressroute",
             "text": "Planeación de la conectividad Activo-Activo",
@@ -1555,7 +1555,7 @@
             "waf": "Fiabilidad"
         },
         {
-            "description": "Cree una puerta de enlace de red virtual compatible con la zona de disponibilidad para una mayor resistencia y planee puertas de enlace de red virtual en diferentes regiones para la recuperación ante desastres y la alta disponibilidad.",
+            "description": "Cree una puerta de enlace de red virtual compatible con la zona de disponibilidad para una mayor resistencia y planee puertas de enlace de red virtual en diferentes regiones para la resistencia, la recuperación ante desastres y la alta disponibilidad.",
             "guid": "21f65e89-ffe2-489f-89f2-16cbc2e257d9",
             "service": "Azure Expressroute",
             "text": "Planeación de puertas de enlace de red virtual",
@@ -5550,7 +5550,7 @@
     "metadata": {
         "name": "WAF Service Guides",
         "state": "preview",
-        "timestamp": "September 09, 2024",
+        "timestamp": "September 16, 2024",
         "waf": "all"
     },
     "status": [
@@ -5577,34 +5577,34 @@
     ],
     "waf": [
         {
+            "name": "seguridad"
+        },
+        {
             "name": "Costar"
         },
         {
-            "name": "Operaciones"
-        },
-        {
-            "name": "Operaciones"
+            "name": "rendimiento"
         },
         {
             "name": "Rendimiento"
         },
         {
-            "name": "rendimiento"
+            "name": "Operaciones"
+        },
+        {
+            "name": "Fiabilidad"
+        },
+        {
+            "name": "costar"
+        },
+        {
+            "name": "Operaciones"
         },
         {
             "name": "Seguridad"
         },
         {
             "name": "fiabilidad"
-        },
-        {
-            "name": "costar"
-        },
-        {
-            "name": "Fiabilidad"
-        },
-        {
-            "name": "seguridad"
         }
     ],
     "yesno": [

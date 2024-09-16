@@ -70,7 +70,7 @@
                 "style": "tabs",
                 "links": [
                     {
-                        "id": "16118819-2dee-4312-be72-de63cd4a5ba9",
+                        "id": "30ff08d3-a1c4-426d-b06b-4f79aee764cf",
                         "cellValue": "VisibleTab",
                         "linkTarget": "parameter",
                         "linkLabel": "Load Balancer",
@@ -79,7 +79,7 @@
                         "style": "primary"
                     },
                     {
-                        "id": "ab66db40-f18d-4637-a4a0-b73e59f1f36c",
+                        "id": "ac49ff30-5333-4dad-adb9-0238d7220b8e",
                         "cellValue": "VisibleTab",
                         "linkTarget": "parameter",
                         "linkLabel": "App Gateway",
